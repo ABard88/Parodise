@@ -5,6 +5,8 @@ using System.Collections.Generic;
 using System;
 using System.Linq;
 
+// now this is source controlled!
+
 [RequireComponent(typeof(CardPress))]
 [RequireComponent(typeof(DCardStackView))]
 public class SabbacIIController : MonoBehaviour
